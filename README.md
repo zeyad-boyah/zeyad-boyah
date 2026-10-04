@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeyadashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyadashraf/)
 [![Email](https://img.shields.io/badge/Email-zeyadelgohary.ze%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadelgohary.ze@gmail.com)
-[![GCP Certified](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-architect)
+[![GCP Certified](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/607fe62b-5db6-4de5-b72f-06905c701b8d)
 
 </div>
 
